@@ -1,1 +1,1 @@
-Some catalogs needed to run the image processing 
+Galaxy catalogs needed for running image processing 
