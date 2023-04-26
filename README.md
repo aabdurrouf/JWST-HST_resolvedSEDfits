@@ -1,4 +1,4 @@
-# piXedfit spatially resolved SED analysis with JWST and HST imaging data 
+# Spatially resolved SED analysis on JWST and HST imaging data using piXedfit 
 
 This repository provides tutorial and examples of the spatially resolved SED analysis with JWST and HST imaging data, similar to the analyses performed in [Abdurro'uf et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230102209A/abstract). 
 
