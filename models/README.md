@@ -1,1 +1,1 @@
-Model SEDs to be used in SED fitting process
+Generate model spectra at rest-frame. A script for doing this can be seen at the jupyter notebook file. An example of generated models can also be downloaded at [link](https://drive.google.com/drive/folders/1x_wtcl5qO8hFEAeCLc82hgwbUFpGkSso?usp=sharing).
