@@ -18,3 +18,5 @@ This repository provides a simple tutorial of the spatially resolved SED analysi
 ![image1](maps_properties.png)
 
 ## Analysis of MACS0647-JD z~11 galaxy
+
+Analysis codes used for the photometry measurements of MACS0647-JD, a triply-lensed galaxy at z~11 ([Hsiao et al. 2023](https://ui.adsabs.harvard.edu/abs/2022arXiv221014123H/abstract)).  
