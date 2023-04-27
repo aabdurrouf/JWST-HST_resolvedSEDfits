@@ -15,7 +15,7 @@ This repository provides a simple tutorial of the spatially resolved SED analysi
 ![image1](stamp_science_images.png)
 ![image1](maps_fluxes.png)
 <img src="binmap_photo.png" width=300 height=300>
-![image1](maps_properties.png)
+<img src="maps_properties.png" width=900 height=450>
 
 ## Analysis of MACS0647-JD z~11 galaxy
 
