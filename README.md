@@ -19,4 +19,4 @@ This repository provides a simple tutorial of the spatially resolved SED analysi
 
 ## Analysis of MACS0647-JD z~11 galaxy
 
-Analysis codes used for the photometry measurements of MACS0647-JD, a triply-lensed galaxy at z~11 ([Coe et al. 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...762...32C/abstract); [Hsiao et al. 2023](https://ui.adsabs.harvard.edu/abs/2022arXiv221014123H/abstract)).  
+Analysis codes used for the photometry measurements of MACS0647-JD, a triply-lensed galaxy at z~11 ([Coe et al. 2013](https://ui.adsabs.harvard.edu/abs/2013ApJ...762...32C/abstract); [Hsiao et al. 2023](https://ui.adsabs.harvard.edu/abs/2022arXiv221014123H/abstract); [Hsiao, Abdurro'uf et al. 2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230503042H/abstract)).  
